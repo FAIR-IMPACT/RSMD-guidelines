@@ -33,4 +33,7 @@ For questions, feedback, or assistance, please reach out to the RSMD maintainer 
 ### License:
 RSMD is licensed under [CC BY 4.0 (Creative Commons Attribution 4.0 International License)](https://creativecommons.org/licenses/by/4.0/). Please review the LICENSE file for more information.
 
+### Disclaimer
+FAIR-IMPACT has received funding from the European Commission’s Horizon Europe funding programme for research and innovation programme under the Grant Agreement no. 101057344. The content of this document does not represent the opinion of the European Commission, and the European Commission is not responsible for any use that might be made of such content
+
 Thank you for your interest in RSMD! Together, let's advance research software recognition and curation and contribute to a more open and collaborative research ecosystem.
