@@ -28,3 +28,5 @@ copyright: Copyright &copy; 2022–2024 RSMD Contributors.
 markdown_extensions:
 - codehilite:
    guess_lang: false
+- pymdownx.tasklist:
+      custom_checkbox: true
