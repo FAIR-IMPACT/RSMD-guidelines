@@ -1,0 +1,30 @@
+site_name: rsmd v1.0
+repo_url: https://github.com/FAIR-IMPACT/RSMD-guidelines
+edit_uri: blob/main/chapters/
+docs_dir: chapters
+theme: readthedocs
+extra_css:
+- css/style.css
+use_directory_urls: true
+nav:
+
+- 'RSMD guidelines': index.md
+- 'Foreword': 0.Foreword.md
+- 'Introduction': 0.Introduction.md
+- 'Scope': 0.Scope.md
+- 'Aspect 1: General': 1.General.md
+- 'Aspect 2: Accessibility and preservation': 2.Accessibility_preservation.md
+- 'Aspect 3: Reference and identification': 3.Reference_identification.md
+- 'Aspect 4: Description and classification': 4.Description_Classification.md
+- 'Aspect 5: Credit and attribution': 5.Credit_Attribution.md
+- 'Aspect 6: Reuse and legal': 6.Reuse_legal.md
+- 'Aspect 7: Re-execute': 7.Re-execute.md
+- 'RSMD checklist': 8.rsmd_checklist.md
+- 'Annex A: Scholarly Infrastructures': A.Scholarly_Infrastructures.md
+- 'Annex B: Bibliography': B.Bibliography.md
+
+copyright: Copyright &copy; 2022–2024 RSMD Contributors.
+
+markdown_extensions:
+- codehilite:
+   guess_lang: false
