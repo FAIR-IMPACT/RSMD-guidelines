@@ -1,4 +1,4 @@
-# Research Software MetaData (RSMD) Gudelines
+# Research Software MetaData (RSMD) Guidelines
 
 Welcome to the RSMD-guidelines repository!
 
