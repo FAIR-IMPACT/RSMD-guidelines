@@ -12,6 +12,7 @@ nav:
 - 'Foreword': 0.Foreword.md
 - 'Introduction': 0.Introduction.md
 - 'Scope': 0.Scope.md
+- 'Definitions': 0.Definitions.md
 - 'Aspect 1: General': 1.General.md
 - 'Aspect 2: Accessibility and preservation': 2.Accessibility_preservation.md
 - 'Aspect 3: Reference and identification': 3.Reference_identification.md
