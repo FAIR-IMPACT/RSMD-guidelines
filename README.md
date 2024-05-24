@@ -11,14 +11,35 @@ RSMD is a comprehensive set of guidelines aimed at enhancing the findability, ac
 - **Integration with EOSC:** RSMD aims to integrate seamlessly with existing Open Science environments and services established within the EOSC, enhancing the discoverability and usability of research software artifacts.
 
 ### Getting Started
+#### Using the RSMD guidelines in in your software
 To start using RSMD in your research projects, simply:
-1. Review the RSMD Guidelines document to understand the recommended metadata attributes and best practices.
-2. Checkout the RSMD checklist
+1. Review the [RSMD Guidelines](https://fair-impact.github.io/RSMD-guidelines/) to understand the recommended metadata attributes and best practices.
+2. Checkout the [RSMD checklist](https://fair-impact.github.io/RSMD-guidelines/8.rsmd_checklist/).
 3. Incorporate relevant metadata fields into your software documentation and repository workflows.
-4. Engage with the RSMD community to provide feedback, contribute improvements, and share experiences.
+
+#### Implementing the guidelines in your institution
+To implement the RSMD in a research institution:
+1. Fork this repository with new name, such as `RSMD-guidelines@YYY`
+   - for example at INRIA, use `RSMD-guidelines@INRIA`
+2. Add instructions on how the recommendations is interpreted in th institution
+   - for example at INRIA, RSMD 2.1 will contain instructions on depositing in [HAL](https://hal.science/)
+
+3. Add in the Citation section credit to the individuals in your institution contributing to the effort.
+
+#### Implementing the guidelines in your infrastructure
+The implementation pathway of the RSMD guidelines in a research infrastructure is yet to be defined.
+Let us know on #4 your thoughts on this topic.
+
+
+### The software metadata community 
+You are welcome to engage with the RSMD creators to provide feedback, contribute improvements, and share experiences.
+
+#### Other relevant initiatives:
+- [CodeMeta]()
+- [SciCodes]()
 
 ### Citation
-When referencing RSMD in your work, please cite:
+When referencing RSMD in your work, please cite the D4.4 report:
 Gruenpeter, M., Granger, S., Monteil, A., Chue Hong, N., Breitmoser, E., Antonioletti, M., Garijo, D., González Guardia, E., Gonzalez Beltran, A., Goble, C., Soiland-Reyes, S., Juty, N., & Mejias, G. (2024). D4.4 - Guidelines for recommended metadata standard for research software within EOSC (V1.0). Zenodo. https://doi.org/10.5281/zenodo.10786147
 
 ### Contribution Guidelines
