@@ -31,3 +31,4 @@ markdown_extensions:
    guess_lang: false
 - pymdownx.tasklist:
       custom_checkbox: true
+- markdown.extensions.md_in_html
