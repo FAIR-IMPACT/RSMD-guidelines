@@ -19,10 +19,10 @@ To start using RSMD in your research projects, simply:
 
 #### Implementing the guidelines in your institution
 To implement the RSMD in a research institution:
-1. Fork this repository with new name, such as `RSMD-guidelines@YYY`
-   - for example at INRIA, use `RSMD-guidelines@INRIA`
-2. Add instructions on how the recommendations is interpreted in the institution
-   - for example at INRIA, RSMD 2.1 will contain instructions on depositing in [HAL](https://hal.science/)
+1. Fork this repository with new name, such as `RSMD-guidelines@YYY`.
+   - for example at INRIA, use `RSMD-guidelines@INRIA`.
+2. Add instructions on how the recommendations is interpreted in the institution.
+   - for example at INRIA, RSMD 2.1 will contain instructions on depositing in [HAL](https://hal.science/).
 3. Add in the Citation section credit to the individuals in your institution contributing to the effort.
 
 #### Implementing the guidelines in your infrastructure
