@@ -21,22 +21,20 @@ To start using RSMD in your research projects, simply:
 To implement the RSMD in a research institution:
 1. Fork this repository with new name, such as `RSMD-guidelines@YYY`
    - for example at INRIA, use `RSMD-guidelines@INRIA`
-2. Add instructions on how the recommendations is interpreted in th institution
+2. Add instructions on how the recommendations is interpreted in the institution
    - for example at INRIA, RSMD 2.1 will contain instructions on depositing in [HAL](https://hal.science/)
-
 3. Add in the Citation section credit to the individuals in your institution contributing to the effort.
 
 #### Implementing the guidelines in your infrastructure
 The implementation pathway of the RSMD guidelines in a research infrastructure is yet to be defined.
 Let us know on #4 your thoughts on this topic.
 
-
 ### The software metadata community 
 You are welcome to engage with the RSMD creators to provide feedback, contribute improvements, and share experiences.
 
 #### Other relevant initiatives:
-- [CodeMeta]()
-- [SciCodes]()
+- [CodeMeta](https://github.com/codemeta/codemeta)
+- [SciCodes](https://scicodes.net/)
 
 ### Citation
 When referencing RSMD in your work, please cite the D4.4 report:
@@ -55,7 +53,7 @@ For questions, feedback, or assistance, please reach out to the RSMD maintainer 
 RSMD is licensed under [CC BY 4.0 (Creative Commons Attribution 4.0 International License)](https://creativecommons.org/licenses/by/4.0/). Please review the LICENSE file for more information.
 
 ### Disclaimer
-FAIR-IMPACT has received funding from the European Commission’s Horizon Europe funding programme for research and innovation programme under the Grant Agreement no. 101057344. The content of this document does not represent the opinion of the European Commission, and the European Commission is not responsible for any use that might be made of such content
+FAIR-IMPACT has received funding from the European Commission’s Horizon Europe funding programme for research and innovation programme under the Grant Agreement no. 101057344. The content of this document does not represent the opinion of the European Commission, and the European Commission is not responsible for any use that might be made of such content.
 
 --- 
 
